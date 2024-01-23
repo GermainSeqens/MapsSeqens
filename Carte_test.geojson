@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-0.0855554,51.519815], ... ,[-0.085555,51.5198157]]]},
+"properties":{"LAD13CD":"E09000001","LAD13NM":"City of London"},"id":"E09000001"},
+]}
